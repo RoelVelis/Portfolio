@@ -138,7 +138,7 @@ main {
 }
 
 .article-one,
-.article-two, article-three, article-four, article-five, article-six, article-seven {
+.article-two, .article-three, .article-four, .article-five, .article-six, .article-seven {
     display: flex;
     align-items: center;
     gap: 1vw;
