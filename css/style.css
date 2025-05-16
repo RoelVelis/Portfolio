@@ -165,7 +165,7 @@ main {
     background-color: #E0474C;
 }
 
-.article-two, .article-three, .article-four, .article-five, .article-six, .article-seven img {
+.article-two img, .article-three img, .article-four img, .article-five img, .article-six img, .article-seven img {
     border-radius: 50px;
     box-sizing: content-box;
     width: 100%;
