@@ -213,6 +213,22 @@ main {
     background-color: #E0474C;
 }
 
+.article-three {
+    background-color: yellow;
+}
+.article-four{
+    background-color: greenyellow;
+}
+.article-five{
+    background-color: orange;
+}
+.article-six{
+    background-color: purple;
+}
+.article-seven{
+    background-color: saddlebrown;
+}
+
 .article-two img, .article-three img, .article-four img, .article-five img, .article-six img, .article-seven img {
     border-radius: 50px;
     box-sizing: content-box;
