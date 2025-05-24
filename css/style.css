@@ -17,6 +17,21 @@ body:has(.article-one:hover) {
 body:has(.article-two:hover) {
     background-color: #F74E54;
 }
+body:has(.article-three:hover) {
+    background-color: yellow;
+}
+body:has(.article-four:hover) {
+    background-color: greenyellow;
+}
+body:has(.article-five:hover) {
+    background-color: orange;
+}
+body:has(.article-six:hover) {
+    background-color: purple;
+}
+body:has(.article-seven:hover) {
+    background-color: saddlebrown;
+}
 
 body:has(.school-main:hover) {
     background-color: #FFF6A6;
