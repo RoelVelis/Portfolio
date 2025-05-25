@@ -447,7 +447,13 @@ form section {
     }
 
     .article-one:hover,
-    .article-two:hover {
+    .article-two:hover,
+    .article-three:hover,
+    .article-four:hover,
+    .article-five:hover,
+    .article-six:hover,
+    .article-seven:hover
+    {
         transform: scale(1.1);
     }
 
