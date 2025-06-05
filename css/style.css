@@ -33,13 +33,13 @@ body:has(.article-seven:hover) {
     background-color: saddlebrown;
 }
 body:has(.article-eight:hover) {
-    background-color: saddlebrown;
+    background-color: darkslategrey;
 }
 body:has(.article-nine:hover) {
-    background-color: saddlebrown;
+    background-color: lightgreen;
 }
 body:has(.article-ten:hover) {
-    background-color: saddlebrown;
+    background-color: beige;
 }
 
 body:has(.school-main:hover) {
@@ -268,13 +268,13 @@ main {
     background-color: saddlebrown;
 }
 .article-eight{
-    background-color: saddlebrown;
+    background-color: darkslategrey;
 }
 .article-nine{
-    background-color: saddlebrown;
+    background-color: lightgreen;
 }
 .article-ten{
-    background-color: saddlebrown;
+    background-color: beige;
 }
 
 .article-two img, .article-three img, .article-four img, .article-five img, .article-six img, .article-seven img, .article-eight, .article-nine, .article-ten {
