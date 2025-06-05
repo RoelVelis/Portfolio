@@ -32,6 +32,15 @@ body:has(.article-six:hover) {
 body:has(.article-seven:hover) {
     background-color: saddlebrown;
 }
+body:has(.article-eight:hover) {
+    background-color: saddlebrown;
+}
+body:has(.article-nine:hover) {
+    background-color: saddlebrown;
+}
+body:has(.article-ten:hover) {
+    background-color: saddlebrown;
+}
 
 body:has(.school-main:hover) {
     background-color: #FFF6A6;
@@ -199,9 +208,24 @@ main {
     width: 300px;
     height: 300px;
 }
+.games5-main {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3vw;
+}
+
+.games5-main a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.games5-main image {
+    width: 300px;
+    height: 300px;
+}
 
 .article-one,
-.article-two, .article-three, .article-four, .article-five, .article-six, .article-seven {
+.article-two, .article-three, .article-four, .article-five, .article-six, .article-seven, .article-eight, .article-nine, .article-ten {
     display: flex;
     align-items: center;
     gap: 1vw;
@@ -243,8 +267,17 @@ main {
 .article-seven{
     background-color: saddlebrown;
 }
+.article-eight{
+    background-color: saddlebrown;
+}
+.article-nine{
+    background-color: saddlebrown;
+}
+.article-ten{
+    background-color: saddlebrown;
+}
 
-.article-two img, .article-three img, .article-four img, .article-five img, .article-six img, .article-seven img {
+.article-two img, .article-three img, .article-four img, .article-five img, .article-six img, .article-seven img, .article-eight, .article-nine, .article-ten {
     border-radius: 50px;
     box-sizing: content-box;
     width: 100%;
